@@ -1,1 +1,1 @@
-Sitemap: https://github.com/Pakillo/quarto-course-website-template/sitemap.xml
+Sitemap: https://Karan-Gandhi.github.io/Coding-Initiative-IITGN/sitemap.xml
