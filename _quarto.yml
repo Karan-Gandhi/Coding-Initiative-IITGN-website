@@ -17,8 +17,8 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - href: schedule.qmd
-        text: Schedule
+      - href: events.qmd
+        text: Events
       - href: materials.qmd
         text: Materials
       - href: https://github.com/Pakillo/quarto-course-website-template/discussions
