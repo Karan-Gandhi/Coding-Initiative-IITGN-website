@@ -1,1 +1,1 @@
-Sitemap: https://Karan-Gandhi.github.io/Coding-Initiative-IITGN/sitemap.xml
+Sitemap: https://Karan-Gandhi.github.io/Coding-Initiative-IITGN-website/sitemap.xml
