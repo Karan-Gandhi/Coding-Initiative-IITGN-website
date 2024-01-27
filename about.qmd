@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+The Coding Initiative by the Coding Club of IIT Gandhinagar aims to improve the coding culture in IIT Gandhinagar.
