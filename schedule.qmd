@@ -1,15 +1,7 @@
 ---
-title: "Schedule"
+title: "Events"
 ---
 
-Example schedule:
-
-|     |                Morning              |          Afternoon                     |
+|     |             Event                   |          Dates                         |
 |:---:|:-----------------------------------:|:--------------------------------------:|
-|  L  | Intro + Data manipulation           | git / GitHub                           |
-|  M  | Generalised Linear Models           | Data visualisation                     |
-|  X  | Mixed models / GAM / Bayes          | Functional programming + Students work |
-|  J  | Multivariate analyses               | Reproducible workflows                 |
-|  V  | Using R as GIS + Students work      | Project presentations                  |
-
-
+|  L  |        Code Meets Art               |    10/1/2024 to 19/1/2024              |
