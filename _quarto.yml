@@ -10,10 +10,6 @@ website:
     logo-href: "iitgn.ac.in"
     pinned: true
     align: center
-    tools:
-      - icon: github
-        href: https://github.com/Pakillo/quarto-course-website-template
-        text: GitHub
     style: docked
     contents:
       - href: index.qmd
