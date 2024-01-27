@@ -3,10 +3,10 @@ project:
   output-dir: docs
 
 website:
-  title: "Course Title"
+  title: "Coding Initiative @ IITGN"
   sidebar:
     background: primary
-    # logo: "images/logo.png"
+    logo: "https://www.iitgn.ac.in/assets/img/Final_IITGN_Logo_symmetric.svg"
     pinned: true
     align: center
     tools:
@@ -19,10 +19,8 @@ website:
         text: Home
       - href: events.qmd
         text: Events
-      - href: materials.qmd
-        text: Materials
-      - href: https://github.com/Pakillo/quarto-course-website-template/discussions
-        text: Forum
+      - href: about.qmd
+        text: About
 
 format:
   html:
