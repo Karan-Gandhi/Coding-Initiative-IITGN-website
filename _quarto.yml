@@ -5,8 +5,9 @@ project:
 website:
   title: "Coding Initiative @ IITGN"
   sidebar:
-    background: primary
+    background: secondary
     logo: "https://www.iitgn.ac.in/assets/img/Final_IITGN_Logo_symmetric.svg"
+    logo-href: "iitgn.ac.in"
     pinned: true
     align: center
     tools:
