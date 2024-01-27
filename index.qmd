@@ -2,7 +2,5 @@
 title: "Coding Initiative @ IIT GN"
 ---
 
-The Coding Initiative by the Coding Club of IIT Gandhinagar aims to improve the coding culture in IIT Gandhinagar.
-
-
+The official website for the Coding Initiative by the Coding Club of IIT Gandhinagar.
 
