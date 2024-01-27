@@ -1,12 +1,12 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Coding Initiative @ IIT GN",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
     "text": "The Coding Initiative by the Coding Club of IIT Gandhinagar aims to improve the coding culture in IIT Gandhinagar.",
     "crumbs": [
-      "Home"
+      "About"
     ]
   },
   {
@@ -20,10 +20,13 @@
     ]
   },
   {
-    "objectID": "materials.html",
-    "href": "materials.html",
-    "title": "Course Materials",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Coding Initiative @ IIT GN",
     "section": "",
-    "text": "Events"
+    "text": "The Coding Initiative by the Coding Club of IIT Gandhinagar aims to improve the coding culture in IIT Gandhinagar.",
+    "crumbs": [
+      "Home"
+    ]
   }
 ]
