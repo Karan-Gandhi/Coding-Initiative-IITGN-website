@@ -1,5 +1,5 @@
 ---
-title: "Code Meets Art" (Ended)
+title: "Code Meets Art (Ended)"
 ---
 
 The Inaugural competition from the Coding Initiative, which merged Code with Art. 
