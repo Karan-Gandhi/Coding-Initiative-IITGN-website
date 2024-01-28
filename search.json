@@ -10,11 +10,18 @@
     ]
   },
   {
+    "objectID": "event1.html",
+    "href": "event1.html",
+    "title": "Code Meets Art (Ended)",
+    "section": "",
+    "text": "The Inaugural competition from the Coding Initiative, which merged Code with Art. Participants had to create an art piece using code. Further details can be found [here] (/event1/details.pdf).\n##Submission Submission is closed.\n##Results:\nWill be published soon!"
+  },
+  {
     "objectID": "events.html",
     "href": "events.html",
     "title": "Events",
     "section": "",
-    "text": "Event\nDates\n\n\n\n\n1\nCode Meets Art\n10/1/2024 to 19/1/2024",
+    "text": "Event\nDates\n\n\n\n\n1\nCode Meets Art\n10/1/2024 to 21/1/2024",
     "crumbs": [
       "Events"
     ]
