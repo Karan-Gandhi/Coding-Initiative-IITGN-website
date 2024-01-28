@@ -3,7 +3,7 @@ title: "Code Meets Art (Ended)"
 ---
 
 The Inaugural competition from the Coding Initiative, which merged Code with Art. 
-Participants had to create an art piece using code. Further details can be found [here] (/event1/details.pdf).
+Participants had to create an art piece using code. Further details can be found [here](/event1/details.pdf).
 
 
 ## **Submission:**
