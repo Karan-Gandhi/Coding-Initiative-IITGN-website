@@ -5,7 +5,7 @@ project:
 website:
   title: "Coding Initiative @ IITGN"
   sidebar:
-    background: primary
+    background: light
     logo: "https://www.iitgn.ac.in/assets/img/iitgnlogo-emblem.png"
     logo-href: "iitgn.ac.in"
     pinned: true
@@ -21,7 +21,7 @@ website:
 
 format:
   html:
-    theme: morph
+    theme: cyborg
     # css: styles.css
     toc: true
     # try
